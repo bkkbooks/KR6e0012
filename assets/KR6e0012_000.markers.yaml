@@ -67,6 +67,7 @@ markers:
   - {type: punctuation, offset: 138, content: 。, id: KR6e0012_T_000-bkkpn46}
   - {type: variant, offset: 140, length: 1, content: 旨, 甲: 指}
   - {type: punctuation, offset: 142, content: ，, id: KR6e0012_T_000-bkkpn47}
+  - {type: substitution, offset: 143, original: 髴, replacement: 佛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16531}}
   - {type: punctuation, offset: 146, content: 。, id: KR6e0012_T_000-bkkpn48}
   - {type: punctuation, offset: 150, content: ，, id: KR6e0012_T_000-bkkpn49}
   - {type: line-break, offset: 152, content: '', id: KR6e0012_T_000-0001a14, ed: T, 'n': 0001a14}
@@ -104,4 +105,4 @@ markers:
   - {type: line-break, offset: 230, content: '', id: KR6e0012_T_000-0001a22, ed: T, 'n': 0001a22}
   body: []
   back: []
-hash: sha256:7b8a0fd6fddd7285660e6e9084a35ebc964d312988fee98df9c93f2758781ce1
+hash: sha256:74d2f2446a1c904f53fb367590959f1df38ee989fbc360616c9d740eb825ecb6
