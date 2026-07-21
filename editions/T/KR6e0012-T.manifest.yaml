@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0012_000-T.yaml, hash: 'sha256:83fc9ed7f83702e993ac4ad61febb76a6e6ff9016f1295927b07c4b5ff0bb038'}
+  - {seq: 0, filename: KR6e0012_000-T.yaml, hash: 'sha256:db30d33a5c344da0026db934133e4a2f6fafe34c37873eac84b933bb16d99223'}
   - {seq: 1, filename: KR6e0012_001-T.yaml, hash: 'sha256:7d59a0a9c894e998afc1cdc960a665be823fda39b600ecdfaf398437f7d52cb0'}
   - {seq: 2, filename: KR6e0012_002-T.yaml, hash: 'sha256:7e35daccfca3fd63457ff34fa94415e320ab7a05d1a404765d38c3db52e2db35'}
   - {seq: 3, filename: KR6e0012_003-T.yaml, hash: 'sha256:2aae9474991427b51d356457558d4d4f64a3aeace048b966262a0449655a597a'}
@@ -111,7 +111,7 @@ assets:
   - {seq: 89, filename: KR6e0012_089-T.yaml, hash: 'sha256:b268c63aa584a793b4c7a977023abdc5107987910de7a73962e72f8567274ebe'}
   - {seq: 90, filename: KR6e0012_090-T.yaml, hash: 'sha256:e3c04e8bdffc796f81808386a624cbd277d9a4ebf4a27b6c01bd71f11baf9f4a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0012_000-T.markers.yaml, hash: 'sha256:570f746a65e9369d61b9969cc5e4a2ff7617d089b8e42df1f5316b1861e2876e'}
+  - {seq: 0, role: markers, filename: assets/KR6e0012_000-T.markers.yaml, hash: 'sha256:d55bf3161709ed83db567a1090efcd0a04bb3a1e3c60c57d7758ff0dbed5decd'}
   - {seq: 1, role: markers, filename: assets/KR6e0012_001-T.markers.yaml, hash: 'sha256:294078b9a5e01a5f7bbe45eb760e1506cd6ded8bd437b21d0062e8dc2dd06d4f'}
   - {seq: 2, role: markers, filename: assets/KR6e0012_002-T.markers.yaml, hash: 'sha256:d4e937dc8ff22b48e1f0ddb338d3aba2fa00a0d0c18ea074b985d4751a8ba46d'}
   - {seq: 3, role: markers, filename: assets/KR6e0012_003-T.markers.yaml, hash: 'sha256:1a1ae981f62d29476ec6e42fdc4322f969b19bb401e00493dc1cb96b030f9dfa'}
@@ -207,7 +207,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0012_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 大方廣佛華嚴經隨疏演義序
@@ -1903,4 +1903,4 @@ table_of_contents:
     第九十'
   type: juan
   level: 1
-hash: sha256:fc2783f304ba886264635c77ca41dbdc947cc4374a394de6960cf2485f1469af
+hash: sha256:cfd3c4639f8d9a4a06050d225a9cb7c9dd4b1209b63f3c86689d4211508dd7f8
